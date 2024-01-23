@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Main
+comment0.text=\r\n\ This\ program\ will\ prompt\ the\ user\ for\ some\ information\ then\ make\ an\ email\ and\ password\ for\ them\r\n\ then\ the\ info\ can\ be\ checked\ or\ changed\ as\ well\ as\ checking\ the\ mail\ capacity\ of\ the\ email\ account\r\n
+comment1.params=
+comment1.target=Main()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Main\r\n
+numComments=2

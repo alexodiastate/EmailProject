@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Email
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Email\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=first\ last\ department
+comment1.target=Email(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ creates\ email\ /\ password\ and\ stores\ information\r\n
+comment10.params=n
+comment10.target=void\ changePassword(java.lang.String)
+comment11.params=
+comment11.target=void\ clearCapacity()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getEmail()
+comment4.params=
+comment4.target=java.lang.String\ getDepartment()
+comment5.params=
+comment5.target=java.lang.String\ getPassword()
+comment6.params=
+comment6.target=int\ getCapacity()
+comment7.params=n
+comment7.target=void\ changeName(java.lang.String)
+comment8.params=n
+comment8.target=void\ changeEmail(java.lang.String)
+comment9.params=n
+comment9.target=void\ changeDepartment(java.lang.String)
+numComments=12
